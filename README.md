@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=BlackThompson&show_icons=true&theme=highcontrast) 
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=BlackThompson&show_icons=true&theme=tokyonight) 
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=BlackThompson&theme=tokyonight) 
 
 <!--
 **BlackThompson/BlackThompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
