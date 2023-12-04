@@ -21,9 +21,11 @@ I'm Black Sun, a passionate developer and technology enthusiast from Earth. 👨
 ## 📫 Let's Connect!
 
 - 🐦 Twitter: [@Black Sun](https://twitter.com/chengdong_23101)
+<!--
 - 📷 Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle/)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
 - 🌐 Website: [Your Personal Website](https://www.yourwebsite.com)
+-->
 
 Please feel free to explore my repositories and reach out to me. Let's code something amazing together! 🚀
 
