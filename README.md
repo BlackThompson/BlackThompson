@@ -25,9 +25,9 @@ I'm Black Sun, a passionate developer and technology enthusiast from Earth. 👨
 -->
 
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=BlackThompson&show_icons=true&theme=tokyonight) 
+![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=BlackThompson&show_icons=true&theme=tokyonight) 
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=BlackThompson&layout=compact&theme=tokyonight) 
+![GitHub账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackThompson&layout=compact&theme=tokyonight) 
 
 
 <!--
