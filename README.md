@@ -18,9 +18,6 @@ I'm Black Sun, a passionate developer and technology enthusiast from Earth. 👨
 - 📚 Learning Human-Computer Interaction and Human-AI Collaboration.
 - 🤔 Exploring Multi-agents system.
 
-## 📫 Let's Connect!
-
-- 🐦 Twitter: [@Black Sun](https://twitter.com/chengdong_23101)
 <!--
 - 📷 Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle/)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
