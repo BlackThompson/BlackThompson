@@ -4,7 +4,7 @@ I'm Black Sun, a passionate developer and technology enthusiast from Earth. 👨
 
 ## 🚀 About Me
 
-- 💼 Currently studying at SUSTech as a visiting student.
+- 💼 Currently studying at Aarhus University as a Master's student.
 - 🌱 I'm always eager to learn and explore new technologies.
 - 🎓 Graduated with a degree in Computer Science.
 
