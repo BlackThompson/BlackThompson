@@ -24,13 +24,11 @@ I'm Black Sun, a passionate developer and technology enthusiast from Earth. 👨
 - 🌐 Website: [Your Personal Website](https://www.yourwebsite.com)
 -->
 
-Please feel free to explore my repositories and reach out to me. Let's code something amazing together! 🚀
 
-<!--
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=BlackThompson&show_icons=true&theme=tokyonight) 
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=BlackThompson&layout=compact&theme=tokyonight) 
--->
+
 
 <!--
 **BlackThompson/BlackThompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
